@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Wishlist</title>
+        <meta charset="utf-8">
+    
+         <style>
+    h2 {
+      color: rgb(0, 102, 204);
+    }
+    body {
+      background-color: rgb(192, 192, 192);
+    }
+  </style>
+        
+        
+    </head>
+    <body>
+    <h2> Wishlist for the future </h2>    
+    <ol>
+    <li> Go Skydiving </li>
+    <li> Go Bungee Jumping </li>
+    <li> Travel around the world </li>
+    <li> To become wealthy and smart </li>
+    <li> To become strong both mentally and physically </li>
+    </ol>
+        
+        
+    </body>
+</html>
