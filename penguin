@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <h1>Challenge: Colorful creature</h1>
+        <style>
+    h1 {
+      color: rgb(0, 102, 204);
+    }
+    body {
+      background-color: rgb(192, 192, 192);
+    }
+  </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1>The coolest creature</h1>
+        
+        <p>The <em>Penguin</em> <strong>is awesome because it is the best animal out there. the Penguin is my personal favourite animal because they are a flightless bird as well as being the fastest swimming and deepest diving species of any birds</strong>.</p>
+        <img src="https://www.kasandbox.org/programming-images/animals/penguins.png">
+        
+        
+        
+        
+    </body>
+</html>
